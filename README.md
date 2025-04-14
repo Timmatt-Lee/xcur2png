@@ -2,6 +2,14 @@
 
 A Node.js script to parse Xcursor files, extract individual image frames, and save them as PNG files. For multi-frame cursors containing images of the same size, it generates vertical PNG sprite strips.
 
+---
+
+**Note on Code Origin:**
+
+Much of the code in this repository was generated with assistance from Google Gemini 2.5 Pro. While functional for its purpose as a local tool, it may not reflect all conventional coding practices or the maintainer's preferred style. It is shared 'as-is' for community utility.
+
+---
+
 ## Features
 
 * Parses the Xcursor file format.
