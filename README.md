@@ -102,3 +102,11 @@ You can modify the script (`index.js`) for basic configuration:
 
 * **`npm install` fails:** This is almost always due to missing system build dependencies for `node-canvas`. Carefully follow the installation instructions for `node-canvas` for your operating system (see Prerequisites). Ensure `pkg-config` and libraries like Cairo, Pango, libjpeg, etc., are installed *before* running `npm install`.
 * **`pkg-config: command not found`:** Install `pkg-config` using your system's package manager (`brew install pkg-config`, `sudo apt-get install pkg-config`, etc.).
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome\! Feel free to check [issues page](https://github.com/Timmatt-Lee/xcur2png/issues).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
